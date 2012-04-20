@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
  
 # Import PyQt4 classes
 import sys
