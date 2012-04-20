@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from __future__ import division
 from traits.api import HasTraits, Str, Int, Float, on_trait_change
 

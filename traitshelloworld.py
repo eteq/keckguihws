@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from traits.api import HasTraits, Str, Int
 
 class Observer(HasTraits):
