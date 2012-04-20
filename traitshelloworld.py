@@ -6,7 +6,6 @@ class Observer(HasTraits):
     affiliation = Str
 
     keck_nights = Int
-    papers = Int
 
 obs = Observer()
 obs.configure_traits()
