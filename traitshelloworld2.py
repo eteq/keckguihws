@@ -17,3 +17,5 @@ class Observer(HasTraits):
         self.keck_efficiency = self.papers/self.keck_nights
 obs = Observer()
 obs.configure_traits()
+
+print obs.keck_efficiency

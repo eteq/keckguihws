@@ -11,3 +11,5 @@ class Observer(HasTraits):
 
 obs = Observer()
 obs.configure_traits()
+
+print obs.first_name
